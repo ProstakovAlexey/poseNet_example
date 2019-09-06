@@ -1,0 +1,11 @@
+.vscode
+.idea
+venv
+__pycache__
+*.pyc
+*.log
+*.socket
+htmlcov
+posenet_mobilenet_v1_100_257x257_multi_kpt_stripped.tflite
+
+
